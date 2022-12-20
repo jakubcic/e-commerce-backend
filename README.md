@@ -23,12 +23,13 @@ This is an e-commerce back end built with Express.js and a MySQL database. The A
 | `/api/tags/:id`       | GET, PUT, DELETE  |
 | `/api/products`       | GET, POST         |
 | `/api/products/:id`   | GET, PUT, DELETE  |
-<br>
+
 
 ## Installation
 ### Prerequisites
 If you want to run this application locally, you must have **node.js** installed. I highly recommend using [**nvm**](https://github.com/nvm-sh/nvm) (node version manager) to manage your node.js installation.
 <br>
+
 This application is based on **node v16.18.1**.
 You must also have a local MySQL server installed. You can [use homebrew to install it on macOS](https://formulae.brew.sh/formula/mysql#default). Install homebrew if you don't have it already, then in a terminal run the following:
 ```
