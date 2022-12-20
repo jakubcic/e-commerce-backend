@@ -78,7 +78,7 @@ npm run start
 
 Here's a video demo showcasing all the possible API calls:
 
-[insert video here]
+https://user-images.githubusercontent.com/39972418/208597878-28dadb87-2db4-4bfe-a7f0-169bd1539aba.mp4
 
 
 ## Credits
